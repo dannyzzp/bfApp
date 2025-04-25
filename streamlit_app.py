@@ -31,8 +31,8 @@ st.markdown(
 st.write('-------------------------------------------------------------------')
 
 st.markdown(
-    "&nbsp; &nbsp; &nbsp; &nbsp;Second, Danny is fun and adventurous. Instead of Cancun" \
-    " or Cabo where tourist goes to, he will take you to bars and clubs in Ensenada and"
+    "&nbsp; &nbsp; &nbsp; &nbsp;Second, Danny is fun and adventurous. Instead of cliche tourist destinations like Cancun" \
+    " or Cabo, he will take you to explore bars and clubs in Ensenada and"
     " local taco stands in Rosarito. You guys can even get a couple massage in Tijuana."
 )
 st.image(
